@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+li{display:inline;
+  float:left;
+  text-align: center;
+   text-decoration: none;
+  font-family: 'Pacifico';
+}
+
+li a:hover {
+    background-color: #eee;
+}
+a{
+  display:block;
+  padding:5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 8px;
+    overflow: hidden;
+  background-color:black;
+}
+.block{background color:black;
+opacity:.7;
+padding:10px;
+width:60%;
+margin-right:auto;
+margin-left:auto;
+}
+.font-color{font-family:'Pacifico';
+  font-weight:bold;
+  color:white;
+font-size:22px;}
+body {
+  font-family: 'Dancing Script';
+  color:white;
+}
+h1{font-family: 'Dancing Script';
+color:white;
+font-size:70px;}
+.btn-default{font-family: 'Pacifico';
+font-size:25px;}
+  .page-one{background-image: url("https://s-media-cache-ak0.pinimg.com/originals/e4/98/1a/e4981a3dd4aa2fa6f0bc84cde9087c7a.jpg");
+height:800px;
+ background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+.page-two{background-image:url("https://webdesignerdepot.s3.amazonaws.com/default-images/4.jpg");
+height:800px;
+padding-top:5%;
+ background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+p{font-size:30px;}
+.me{
+  width:250px;
+}
+.page-three{background-image:url("http://www.qis.net/~captain/custom/bkground.jpg");
+  height:800px;
+  padding-top:5%;
+   background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page-four{background-image:url("http://wineskins.org/wp-content/uploads/2013/09/Dark-wooden-website-background.jpg");
+height:800px;
+ background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+  .small-image {
+    width: 350px;
+    padding:15px;
+    
+}
+.lb-font{font-size:25px;}
